@@ -3,21 +3,24 @@
 To run the project clone this repository 
 
 ### Install the dependencies 
-``` $npm install ``` 
+``` 
+$npm install 
+``` 
 
 ### run the application
-``` Run the application ```
+``` 
+$node . 
+```
 
-### APIs base url will be
+### APIs base URL
 [http://localhost:3000/api/](http://localhost:3000/api/)
 
-### APIs document url will be
+### APIs documentation URL
 [http://localhost:3000/api/](http://localhost:3000/api/)
 
 ## Example APIs
 
 ### Sign up
-
 ```
 POST http://localhost:3000/api/persons/
 
@@ -30,7 +33,6 @@ REQUEST
 ```
 
 ### Sign up
-
 ```
 POST http://localhost:3000/api/persons/login/
 
