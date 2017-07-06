@@ -32,7 +32,7 @@ REQUEST
 }
 ```
 
-### Sign up
+### Login
 ```
 POST http://localhost:3000/api/persons/login/
 
