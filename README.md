@@ -16,7 +16,7 @@ $node .
 [http://localhost:3000/api/](http://localhost:3000/api/)
 
 ### APIs documentation URL
-[http://localhost:3000/api/](http://localhost:3000/api/)
+[http://localhost:3000/explorer/](http://localhost:3000/explorer/)
 
 ## Example APIs
 
